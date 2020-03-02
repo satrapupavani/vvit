@@ -1,0 +1,24 @@
+{
+    
+    "basics":{
+        "name":"pavani",
+        "role":"fresher",
+        "email":"pavanisatrapu3477@gmail.com",
+        "mobile":"6304302526",
+        "education":
+        [
+        {
+            "degree":"ssc",
+            "percentage":9.7
+        },
+        {
+            "degree":"inter",
+            "percentage":96.6
+        },
+        {
+            "degree":"btech",
+            "percentage":8.0
+        }
+        ]
+    }
+}
